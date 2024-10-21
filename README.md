@@ -1,9 +1,9 @@
-#Srinivas Institute of Technology - Team Dhrishti<br>
+#Srinivas Institute of Technology - Team Dhrishti<br><br>
 Team members:<br>
 Ghansyam A<br>
 Deekshith M Rai<br>
 Khyathi<br>
-Nischitha Shetty<br><br>
+Nischitha Shetty<br>
 <br>Problem Statement :<br>
 Voice-Driven Screenplay Creator<br>
 Build a web-based program that allows users to generate movie screenplays using voice input.<br>
